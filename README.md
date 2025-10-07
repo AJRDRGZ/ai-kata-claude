@@ -6,6 +6,14 @@ A modern, intuitive personal budget management application built with React. Tra
 
 Personal Budget App is a client-side React application that helps you manage your personal finances effectively. Set your monthly income, create custom budget categories, allocate funds, and track all your transactions in real-time. All data is stored locally in your browser, ensuring privacy and offline functionality.
 
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard](screenshots/Dashboard.png)
+
+### Category Detail View
+![Category Detail](screenshots/Category.png)
+
 ## ✨ Features
 
 ### Dashboard
